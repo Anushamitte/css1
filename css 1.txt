@@ -1,0 +1,7 @@
+html,body {
+                    margin :opx;
+                    padding: opx;
+                     border: opx;
+                     left: opx;
+                     top: opx;
+}
